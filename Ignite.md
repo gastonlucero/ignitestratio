@@ -277,8 +277,12 @@ There is lot more to cover and discuss, and a lot of code to try out!, we only s
 
 For more information, documentation, and screencasts, visit:
 [https://ignite.apache.org/index.html](https://ignite.apache.org/index.html)
+
 [https://github.com/apache/ignite](https://github.com/apache/ignite)
+
 [@ApacheIgnite](https://twitter.com/ApacheIgnite)
+
 [https://www.gridgain.com/technology/apache-ignite](https://www.gridgain.com/technology/apache-ignite)
+
 https://github.com/gastonlucero/ignitestratio
 
